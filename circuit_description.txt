@@ -1,0 +1,21 @@
+# Circuit Connections Description
+
+## Microcontroller (Arduino Uno/Nano or ESP32)
+- Controls GPS and GSM modules
+- Reads panic button input
+
+## GPS Module (Neo-6M)
+- VCC to 3.3V/5V
+- GND to GND
+- TX to Arduino RX (D4)
+- RX not used
+
+## GSM Module (SIM800L)
+- VCC to 4.0-4.2V (Li-ion battery recommended)
+- GND to GND
+- TX to Arduino RX (D7)
+- RX to Arduino TX (D6)
+
+## Panic Button
+- One side to GND
+- Other side to Digital Pin (e.g., D2)

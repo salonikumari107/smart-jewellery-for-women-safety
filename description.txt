@@ -1,0 +1,8 @@
+# Mobile App Companion (Optional)
+
+A mobile app can be developed to:
+- Receive SOS messages
+- Display GPS location on a map
+- Maintain contact database for quick alerts
+
+Tech stack options: Flutter, React Native, or Android Studio (Java/Kotlin)

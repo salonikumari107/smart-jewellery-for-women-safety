@@ -19,5 +19,3 @@
 ## Panic Button
 - One side to GND
 - Other side to Digital Pin (e.g., D2)
-##  wiring diagram
-https://sdmntprwestus2.oaiusercontent.com/files/00000000-3c98-61f8-a239-e8c7f41bec4c/raw?se=2025-06-25T11%3A16%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=4e74b554-f275-5f04-b7de-274915cc1e81&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T13%3A26%3A01Z&ske=2025-06-25T13%3A26%3A01Z&sks=b&skv=2024-08-04&sig=llmAfns0UsQqh1hQ%2BE0zJ9Hn62JlPmlCemFZyOculaQ%3D

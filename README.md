@@ -4,18 +4,22 @@ This project presents a Smart Jewellery device designed to enhance women's safet
 
 
 
-🎯 Features
+🎯 Features 
 Emergency Button: Hidden push button triggers an emergency alert when pressed.
+
 
 Bluetooth Communication: Connects to a smartphone via Bluetooth for alert transmission.
 
+
 Microcontroller Unit: Controls logic and coordinates between components.
+
 
 Vibration Feedback: Confirms activation of the safety mechanism.
 
 Rechargeable Battery: Powers the entire circuit reliably.
 
-🧩 Components Used
+🧩 Components Used:
+
 Component	Description
 Push Button	Hidden within jewellery for discreet activation
 Microcontroller	ESP32/Arduino Nano (depending on use case)
